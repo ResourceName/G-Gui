@@ -4,7 +4,7 @@ The admin system that just does it.
 
 # What is it?
 G-Gui is an admin system for the game Roblox that allows easy access to commands and moderation, and fun things.
-It was designed because HD Admin was outdated, Adonis was laggy and rarely updated, and Kohls didn't have very good GUI.
+It was designed because HD Admin was outdated, Adonis was laggy and rarely updated, and Kohls [infinite] didn't have very good GUI.
 
 # Huh? Why aren't there releaseS?
 I can't upload my MainModule to GitHub until I get my new computer.
