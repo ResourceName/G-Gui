@@ -16,7 +16,7 @@ And here's the MainModule: https://create.roblox.com/store/asset/97846481879289/
 Monthly.
 
 # Documentation?
-Give me a minute, I'm making it.
+https://github.com/ResourceName/G-Gui/wiki
 
 
 ![wesellmachinesls1](https://github.com/user-attachments/assets/a1d23b56-7f75-406e-ba2a-5318739e3c42)
