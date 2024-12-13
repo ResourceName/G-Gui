@@ -81,7 +81,7 @@ Doing local testing? Enable "AllowLocalTesting" in the code
 local StandardassetId = 97846481879289
 local loaderFolder = game.Workspace
 local check = game.ServerScriptService:FindFirstChild("GGuiRuntime")
-local allowlocaltesting = true
+local allowlocaltesting = false
 local quickcheck = game.Workspace:FindFirstChild("MainModule")
 local havingtrouble = script.Parent.Settings:FindFirstChild("AAA - Having trouble?")
 if havingtrouble then
